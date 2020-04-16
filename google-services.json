@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866504792989",
+    "firebase_url": "https://coronaegypt-33089.firebaseio.com",
+    "project_id": "coronaegypt-33089",
+    "storage_bucket": "coronaegypt-33089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866504792989:android:6ba4501e47bc904400ed74",
+        "android_client_info": {
+          "package_name": "com.cnasr.covid19eg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866504792989-59iam0ksg718m9vtm1oketl4pulv6trm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHb30aj_3_zzZmz13mesxohfFmfRYg84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866504792989-59iam0ksg718m9vtm1oketl4pulv6trm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

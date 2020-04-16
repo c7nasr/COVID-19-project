@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Corona In Egypt",
+    "slug": "corona-in-egypt",
+    "platforms": [
+      "android",
+      "web"
+    ],
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "37.0.0",
+
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cnasr.covid19eg",
+      "buildNumber": "1.0.0"
+
+    },
+    "android":{
+      "googleServicesFile": "./google-services.json",
+      "package": "com.cnasr.covid19eg",
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyCTHb30aj_3_zzZmz13mesxohfFmfRYg84"
+
+        }
+      }
+
+    }
+  }
+}
