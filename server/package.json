@@ -1,0 +1,24 @@
+{
+  "name": "corona-server",
+  "version": "1.0.0",
+  "description": "Server for CoronaEgypt",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "keywords": [
+    "CORONA",
+    "EGYPT",
+    "WHO",
+    "PANDIMIC"
+  ],
+  "author": "NASR",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.3"
+  }
+}
